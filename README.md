@@ -2,11 +2,9 @@
 
 ### Full-Stack Developer · Frontend-focused · Based in Barcelona
 
-> Building reliable digital products for culture, heritage, and complex information systems.
-
 I am a Colombian software developer currently living and working in **Barcelona, Spain**. I enjoy creating, improving, and learning through new challenges—especially when they involve turning complex requirements into clear, scalable, and maintainable solutions.
 
-I currently work as a Software Development Engineer at [Visivalab](https://www.visivalab.com), contributing to digital platforms and applications for museums, archaeological parks, and cultural institutions. My work spans frontend architecture, backend integrations, mobile experiences, data-driven systems, and cloud delivery.
+I currently work as a Software Development Engineer at [Visivalab](https://www.visivalab.com), contributing to digital platforms and applications for museums, archaeological parks, and cultural institutions. My work spans frontend architecture, backend integrations, mobile experiences and data-driven systems.
 
 ## What I Work On
 
@@ -53,16 +51,6 @@ These projects are the result of collaborative work by multidisciplinary teams a
 | **UI, State & Testing** | Tailwind CSS, Storybook, Pinia, Vitest, Figma |
 | **Backend & Data** | Node.js, Laravel, Python, MySQL, PostgreSQL, Neo4j |
 | **Cloud & Delivery** | AWS, GitHub Actions, CI/CD, Git, Linux |
-
-## Professional Impact
-
-At Visivalab, I helped introduce frontend development standards that reduced production incidents by **25%** and improved deployment speed by **15%**.
-
-My previous experience includes e-commerce, digital onboarding, internal business platforms, and AI-enabled process automation. My academic background combines Computer Engineering, Data Science, and Digital Business.
-
-## Beyond Software
-
-Outside technology, sport is one of my main interests.
 
 ## Connect
 
