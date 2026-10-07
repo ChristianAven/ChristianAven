@@ -46,10 +46,10 @@ These projects are the result of collaborative work by multidisciplinary teams a
 
 | Area | Technologies |
 | --- | --- |
-| **Languages & Web** | TypeScript, JavaScript ES6+, HTML5, CSS3 |
+| **Languages & Web** | TypeScript, JavaScript, HTML5, CSS3 |
 | **Frontend** | React.js, Vue.js, Next.js, Nuxt.js, React Native |
 | **UI, State & Testing** | Tailwind CSS, Storybook, Pinia, Vitest, Figma |
-| **Backend & Data** | Node.js, Laravel, Python, MySQL, PostgreSQL, Neo4j |
+| **Backend & Data** | Node.js, Laravel, MySQL, PostgreSQL |
 | **Cloud & Delivery** | AWS, GitHub Actions, CI/CD, Git, Linux |
 
 ## Connect
